@@ -5,8 +5,8 @@
 // This program will create a sudoku board that reads the data from a .sdk file and displays it in a  grid style
 // game board and follows specific game rules
 
-// edit for git
 
+// for restore in git
 import java.io.FileNotFoundException;
 import java.util.*;
 import java.io.*;
