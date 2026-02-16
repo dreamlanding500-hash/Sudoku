@@ -14,7 +14,7 @@ public class SudokuBoard {
    public char[][] boardDimensions;
 
 // pre: The file that filePath is trying to use has to exist
-// post: Stores data from file in the 2D array
+// post: Stores data from file in the 2D array for the board
    public SudokuBoard (String filePath) {
       try {
          Scanner fileInput = new Scanner(new File(filePath));
